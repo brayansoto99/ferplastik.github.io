@@ -1,0 +1,121 @@
+a:hover,
+a:focus {
+    color: #64a65b;
+}
+
+a,.tp-caption a.btn:hover {
+	color: rgb(216,135,161);
+}
+.top-nav-collapse {
+	background: #d887a1;
+}
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+	color: rgb(216,135,161);
+}
+
+.team-wrapper-big:hover .team-wrapper-overlay, .team-wrapper-small:hover .team-wrapper-overlay { background: #64a65b; }
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: rgb(216,135,161);
+}
+
+.widget-avatar .avatar:hover {
+    border: 5px solid rgb(216,135,161);
+}
+
+.bg-skin {
+	background: rgb(216,135,161);
+}
+
+.highlight-color {
+	background-color: rgb(216,135,161);
+}
+
+
+/* pricing box  */
+.pricing-box.skin {
+	background: rgb(216,135,161);
+}
+
+
+/* portfolio */
+
+
+
+
+/* blog */
+
+ul.comment-meta li a:hover {
+	color: #FE7A66;
+}
+
+ul.comment-meta li.reply a {
+	background: #FE7A66;
+}
+
+.pagination > li > a,
+.pagination > li > span {
+  color: #FE7A66;
+}
+
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus {
+  color: #FE7A66;
+}
+
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+  background-color: #FE7A66;
+  border-color: #FE7A66;
+}
+.sidebar .widget ul li a:hover {
+	color: #FE7A66;
+}
+
+.widget .tagcloud a {
+  background: #FE7A66;
+}
+
+.flex-control-paging li a.flex-active { background: #FE7A66;
+	}
+/* team */
+.team-box {
+	background: #FE7A66;
+}
+
+form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
+	border-color: #FE7A66;
+}
+form.search-form input:focus {
+	border-color: #FE7A66;
+}
+
+/* footer */
+ul.footer-menu li a:hover {
+	color: #FE7A66;
+}
+
+footer a.totop:hover {
+	color: #FE7A66;
+}
+
+
+.btn-skin {
+  color: #fff;
+  background-color: #FE7A66;
+  border-color: #FE7A66;
+}
+
+
+.btn-skin:hover {
+  color: #fff;
+  background-color: #53a962;
+}
